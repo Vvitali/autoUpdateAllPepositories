@@ -5,7 +5,8 @@
   "main": "list.js",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "npm-check-updates": "^10.2.5"
   },
   "scripts": {
     "step1": "node list.js && ./download.sh",
