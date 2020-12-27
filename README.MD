@@ -18,3 +18,5 @@ Step 2 is also asynchronous and will run ncu -i for each repository, after it wi
 ```bash
 npm run step2;
 ```
+
+Medium article with more info: https://vvitali.medium.com/lets-update-package-json-in-all-repositories-ee163837c75
