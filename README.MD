@@ -1,4 +1,4 @@
-# package.json auto-updater
+# auto-updater of package.json in all repositories
 
 ## How to use:
 
