@@ -1,0 +1,17 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+    "step1": "node list.js && ./download.sh",
+    "step2": "./updatePackagesAndCommit.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
