@@ -1,6 +1,7 @@
 const axios = require('axios');
 fs = require('fs');
 
+// Change to your own
 const USERNAME = 'Vvitali';
 
 axios.get(`https://api.github.com/users/${USERNAME}/repos?per_page=100&page=1`)
